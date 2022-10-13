@@ -1,0 +1,2 @@
+# StrategInTest
+Test pour stage
