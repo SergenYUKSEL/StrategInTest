@@ -1,0 +1,40 @@
+.register-form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 20vh;
+    margin-left: 33%;
+    border-radius: 20px;
+    width: 30%;
+    align-items: center;
+    align-content: center;
+    border: solid;
+    background-color: #0469ec ;
+    height: 50vh;
+}
+.email-input {
+    width: 250px;
+}
+.passwd-input {
+    width: 250px;
+}
+button {
+    background-color: #fff;
+    border-radius: 20px;
+    width: 100px;
+}
+button:hover {
+    color: #0469ec;
+}
+input {
+    display: flex;
+    border-radius: 5px;
+    height: 3vh;
+}
+li {
+    list-style-type: none;
+}
+label {
+    font-weight: bold;
+}

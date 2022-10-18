@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "634effff16cea385477dee1a"
+  },
+  "email": "sergen@gmail.com",
+  "passwd": "$2b$10$Z5L4tPe3jpSRy31hw4LldeIugeFwZNak3V6vgKvV1eVGfvuQzVawK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634f004b16cea385477dee1e"
+  },
+  "email": "user1@strategin.com",
+  "passwd": "$2b$10$9Arco5YV2H5fuJxId.inMeB0I3v7TdpupVoTggDsnw7yKq3p/p3lW",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634f00af16cea385477dee22"
+  },
+  "email": "user2@strategin.com",
+  "passwd": "$2b$10$gf11jH7R5j9tn2a6lOF18.EukTSXKX02YB7.3nlN646o6tqIrEsKu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634f010216cea385477dee26"
+  },
+  "email": "user3@strategin.com",
+  "passwd": "$2b$10$nPcCxIjjDcDZjiShx.dHPu1oDpIIWXEGghe6u8z1pawS4L.2Tlq3W",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634f035e16cea385477dee2a"
+  },
+  "email": "user4@strategin.com",
+  "passwd": "$2b$10$qz7Vdqw8G2l2cIdAoNcJR.idgzDWPs2Jcp7.8Y9oM4ZqfUijMWvhy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634f03ff16cea385477dee31"
+  },
+  "email": "administrateur1@strategin.com",
+  "passwd": "$2b$10$YPXZPB5/m5Rz/7aqhlPnX.jTfpodYovVM0kNj9aAUFxVzJ.85L0.2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634f040916cea385477dee35"
+  },
+  "email": "administrateur2@strategin.com",
+  "passwd": "$2b$10$6ArjqbC2Vpx.Yp0xHZ8r9ejO1T.DcJ9WxuDSLLifAza79fDGGXN2a",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634f041416cea385477dee39"
+  },
+  "email": "administrateur3@strategin.com",
+  "passwd": "$2b$10$nJd1PEZAU8ufADYGrpjy.eVLIEO0H5TTGwrGvGhhGZ8BtLxg04.Si",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634f042c16cea385477dee3e"
+  },
+  "email": "administrateur4@strategin.com",
+  "passwd": "$2b$10$hFJFVVFeZiKg0XYrF1fnNemOf0V6fbiPJmnJrerwttitnRbg3/PYG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634f0be40a4816b32698bb6c"
+  },
+  "email": "user5@strategin.com",
+  "passwd": "$2b$10$kkPl85TWV/.qZdvUXcxpXOxO4aTjoF9xqptNnsomKbEJ1AESOxd6u",
+  "__v": 0
+}]

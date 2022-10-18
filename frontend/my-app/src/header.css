@@ -1,0 +1,15 @@
+.nav-bar {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #0469ec;
+    margin: 0;
+    padding: 0;
+    height: 5vh;
+}
+a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
